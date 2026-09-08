@@ -42,7 +42,7 @@ print(name.upper(), name.lower(), len(name))
 
 # Q1: Write a line of code that prints your own name using print().
 
-
+print("Your Name Here")  # Replace with your actual name
 # Q2: What will print("Hello", "world") output — does it add a space
 #     automatically? Try it below.
 
