@@ -1,6 +1,5 @@
 # --- Print ---
 print("Hello, world!")
-
 # --- Variables & data types ---
 name = "Ketro"        # str
 age = 25              # int
